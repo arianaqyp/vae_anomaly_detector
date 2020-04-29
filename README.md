@@ -1,2 +1,2 @@
 # vae_svm
-Variational Autoencoder - SVM
+Variational Autoencoder with 86% recall and 8% precision
